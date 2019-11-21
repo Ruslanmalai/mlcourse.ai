@@ -1,0 +1,22 @@
+Analysis and things to do!
+
+1. Standartization and One-hot.
+    Does standartization useful for tree based model?
+    Columns to conver to categorical (ONEHOT)
+    
+2. Vectorization of hero_id and other parameters:
+    Use Tf-idf or similar and sparse matrix to categorize all possible combinations in the team.
+    The same thing can be useful for other parameters (hero_power, chat_messages, player_id).
+    GET RID OF PERSONAL STATS! (if it is useful)
+    
+3. Time_searies?
+
+
+4. Work on existing columns.
+    - Coordinates (X, Y)
+
+5. Create new features from JSON:
+   
+
+
+6. 
