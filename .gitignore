@@ -120,3 +120,44 @@ home
 
 # solutions
 *_solution.ipynb
+data/dota_2/sample_submission.csv
+data/dota_2/test_features.csv
+data/dota_2/test_matches.jsonl
+data/dota_2/train_features.csv
+data/dota_2/train_matches.jsonl
+data/dota_2/train_targets.csv
+my_work/Dota 2/f2_test_numpy.npy
+my_work/Dota 2/f2_train_numpy.npy
+my_work/Dota 2/sample_submission.csv
+my_work/Dota 2/solution/dota_solution_Ruslan Khabibrakhmanov.zip
+my_work/Dota 2/solution/README.txt
+my_work/Dota 2/solution/test_features_7.pkl
+my_work/Dota 2/solution/test_features_7_cat.pkl
+my_work/Dota 2/solution/train_features_7.pkl
+my_work/Dota 2/solution/train_features_7_cat.pkl
+my_work/Dota 2/test_features.csv
+my_work/Dota 2/test_features_1.pkl
+my_work/Dota 2/test_features_2.pkl
+my_work/Dota 2/test_features_3.pkl
+my_work/Dota 2/test_features_4.pkl
+my_work/Dota 2/test_features_5.pkl
+my_work/Dota 2/test_features_6.pkl
+my_work/Dota 2/test_features_7.pkl
+my_work/Dota 2/test_features_7_cat.pkl
+my_work/Dota 2/test_heroes_id.pkl
+my_work/Dota 2/test_matches.jsonl
+my_work/Dota 2/TO-DO
+my_work/Dota 2/train_features_1.pkl
+my_work/Dota 2/train_features_2.pkl
+my_work/Dota 2/train_features_3.pkl
+my_work/Dota 2/train_features_4.pkl
+my_work/Dota 2/train_features_5.pkl
+my_work/Dota 2/train_features_6.pkl
+my_work/Dota 2/train_features_7.pkl
+my_work/Dota 2/train_features_7_cat.pkl
+my_work/Dota 2/train_features_tower_kills.pkl
+my_work/Dota 2/train_heroes_id.pkl
+my_work/Dota 2/train_matches.jsonl
+my_work/Dota 2/train_targets.csv
+my_work/Dota 2/X_test_for_cat.csv
+my_work/Dota 2/X_train_for_cat.csv
